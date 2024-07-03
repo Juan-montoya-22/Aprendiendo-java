@@ -55,6 +55,7 @@ public class Local {
                     referencedColumnName = "customerId"
             )
     )
+
     private  List<Customer> customerList;
 
  /*   @OneToMany(
